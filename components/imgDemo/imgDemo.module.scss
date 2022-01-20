@@ -1,0 +1,22 @@
+.container {
+  font-size: 2rem;
+  line-height: 1.6;
+}
+.hd {
+  line-height: 1.1;
+}
+.block,
+.containerH {
+  margin-bottom: 1rem;
+}
+.block {
+  background-color: #e0e0e0;
+  height: 800px;
+}
+.containerH {
+  background-color: #ffe4c4;
+  position: relative;
+  padding: 2rem;
+  height: 200px;
+  overflow: scroll;
+}
